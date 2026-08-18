@@ -42,5 +42,5 @@ my-portfolio/
 ├── .gitignore              # Ignored files and system configurations
 └── README.md               # Project documentation
 👤 Author
-​Name: Maryan Abdi Hussein
+​Name: Maryama  Abdi Hussein
 ​
